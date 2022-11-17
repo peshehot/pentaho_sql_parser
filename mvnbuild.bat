@@ -1,0 +1,1 @@
+C:\distr\maven\apache-maven-3.2.5\bin\mvn --settings .m2\settings.xml clean install
